@@ -66,5 +66,6 @@ This involves cleaning and preprocessing the data, including tasks such as remov
 This project is intended to be one tool that could aid humans in classifying fake news or be part of future applications that combine multiple tools to automate the process of fake news classification.
 
 ---
+Do Like the project and Follow me on GitHub if you liked the Project !
+Thank You 
 
-Feel free to adjust the content to better fit your project's specifics and your personal preferences!
